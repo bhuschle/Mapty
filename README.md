@@ -13,7 +13,7 @@ Page can be viewed at https://bhuschle.github.io/Mapty/
 - Ability to position the map to show all workouts [very hard] {leaflet API doc}
 - Ability to draw lines and shapes instead of just points [very hard]
 - Geocode location from coordinates [only after asynchromous JavaScript section]
- - "Run in Faro, Portugal"
+  - "Run in Faro, Portugal"
 - Display weather data for workout time and place [only after asynchromous JavaScript section]
 
 ---
