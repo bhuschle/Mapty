@@ -21,14 +21,14 @@ Page can be viewed at https://bhuschle.github.io/Mapty/
 ## Notes
 ### **edit**, **delete**
 Add button to marker description for each **edit** and **delete**\
-addEventListener() to each that completes task\
+addEventListener() to each that completes task
 - remove marker
 - remove from workoutContainer
 - remove from localStorage
 
 ### **delete all**
 Add button to the bottom of workoutContainer or next to logo on top of workoutContainer\
-addEventListener() to button that completes task\
+addEventListener() to button that completes task
 - remove all from local storage
   - function already in app API under reset()
 
