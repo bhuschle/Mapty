@@ -39,7 +39,7 @@ have selector for sort next to **delete all** button
   - distance
   - type
   - duration
-- rebuild(sorted workout)
+- **Re-Build**(sorted workout)
 
 ### **Re-Build**
 - rebuild each workout in order of the passed in value (workout object or localStorage object)
