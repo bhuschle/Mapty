@@ -31,6 +31,24 @@ Add button to the bottom of workoutContainer or next to logo on top of workoutCo
 addEventListener() to button that completes task
 - remove all from local storage
   - function already in app API under reset()
+  
+### **sort**
+have selector for sort next to **delete all** button\
+Sort workout object by specific selected on change
+- default
+- distance
+- type
+- duration
+rebuild(sorted workout)
+
+### **Re-Build**
+- rebuild each workout in order of the passed in value (workout object or localStorage object)
+  - .forEach()
+  - if (work.type === 'running') ? build running : build cycling;
+  - display marker
+  - display in workoutContainer
+  - this.#workout.push(work)
+- **delete all**
 
 ---
 permalink : /index.html
