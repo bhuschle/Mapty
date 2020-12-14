@@ -11,7 +11,8 @@ Page can be viewed at https://bhuschle.github.io/Mapty/
   - e.g. distance
 - **Re-build** Running and Cycling objects coming from local storage
 - More realistic error and confirmation **messages**
-- Ability to position the map to **show all workouts** [very hard] {leaflet API doc}
+- Ability to position the map to **show all workouts** [very hard]
+  - Check leaflet API documentation
 - Ability to **draw lines and shapes** instead of just points [very hard]
 - **Geocode location** from coordinates [only after asynchromous JavaScript section]
   - e.g. "Run in Faro, Portugal"
