@@ -3,7 +3,7 @@ Jonas's Class on Local Storage and APIs - Educational Showing
  
 Page can be viewed at https://bhuschle.github.io/Mapty/
 
-## Future
+## Future [not part of the course]
 - Ability to **edit** a workout
 - Ability to **delete** a workout
 - Ability to **delete all** workouts
