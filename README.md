@@ -33,13 +33,13 @@ addEventListener() to button that completes task
   - function already in app API under reset()
   
 ### **sort**
-have selector for sort next to **delete all** button\
-Sort workout object by specific selected on change
-- default
-- distance
-- type
-- duration
-rebuild(sorted workout)
+have selector for sort next to **delete all** button
+- Sort workout object by specific selected on change
+  - default
+  - distance
+  - type
+  - duration
+- rebuild(sorted workout)
 
 ### **Re-Build**
 - rebuild each workout in order of the passed in value (workout object or localStorage object)
